@@ -1,0 +1,4052 @@
+[
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add centro",
+        "content_type": 7,
+        "codename": "add_centro"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change centro",
+        "content_type": 7,
+        "codename": "change_centro"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete centro",
+        "content_type": 7,
+        "codename": "delete_centro"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view centro",
+        "content_type": 7,
+        "codename": "view_centro"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add cuadrante",
+        "content_type": 8,
+        "codename": "add_cuadrante"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change cuadrante",
+        "content_type": 8,
+        "codename": "change_cuadrante"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete cuadrante",
+        "content_type": 8,
+        "codename": "delete_cuadrante"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view cuadrante",
+        "content_type": 8,
+        "codename": "view_cuadrante"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add limpiador",
+        "content_type": 9,
+        "codename": "add_limpiador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change limpiador",
+        "content_type": 9,
+        "codename": "change_limpiador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete limpiador",
+        "content_type": 9,
+        "codename": "delete_limpiador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view limpiador",
+        "content_type": 9,
+        "codename": "view_limpiador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add producto",
+        "content_type": 10,
+        "codename": "add_producto"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change producto",
+        "content_type": 10,
+        "codename": "change_producto"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete producto",
+        "content_type": 10,
+        "codename": "delete_producto"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view producto",
+        "content_type": 10,
+        "codename": "view_producto"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add aseo",
+        "content_type": 11,
+        "codename": "add_aseo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change aseo",
+        "content_type": 11,
+        "codename": "change_aseo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete aseo",
+        "content_type": 11,
+        "codename": "delete_aseo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view aseo",
+        "content_type": 11,
+        "codename": "view_aseo"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+        "name": "Can add fichaje",
+        "content_type": 12,
+        "codename": "add_fichaje"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+        "name": "Can change fichaje",
+        "content_type": 12,
+        "codename": "change_fichaje"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+        "name": "Can delete fichaje",
+        "content_type": 12,
+        "codename": "delete_fichaje"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+        "name": "Can view fichaje",
+        "content_type": 12,
+        "codename": "view_fichaje"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+        "name": "Can add perfil limpiador",
+        "content_type": 13,
+        "codename": "add_perfillimpiador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+        "name": "Can change perfil limpiador",
+        "content_type": 13,
+        "codename": "change_perfillimpiador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+        "name": "Can delete perfil limpiador",
+        "content_type": 13,
+        "codename": "delete_perfillimpiador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+        "name": "Can view perfil limpiador",
+        "content_type": 13,
+        "codename": "view_perfillimpiador"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+        "name": "Can add limpieza",
+        "content_type": 14,
+        "codename": "add_limpieza"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+        "name": "Can change limpieza",
+        "content_type": 14,
+        "codename": "change_limpieza"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+        "name": "Can delete limpieza",
+        "content_type": 14,
+        "codename": "delete_limpieza"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+        "name": "Can view limpieza",
+        "content_type": 14,
+        "codename": "view_limpieza"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+        "name": "Can add inventario",
+        "content_type": 15,
+        "codename": "add_inventario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+        "name": "Can change inventario",
+        "content_type": 15,
+        "codename": "change_inventario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+        "name": "Can delete inventario",
+        "content_type": 15,
+        "codename": "delete_inventario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+        "name": "Can view inventario",
+        "content_type": 15,
+        "codename": "view_inventario"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+        "name": "Can add turno",
+        "content_type": 16,
+        "codename": "add_turno"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+        "name": "Can change turno",
+        "content_type": 16,
+        "codename": "change_turno"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+        "name": "Can delete turno",
+        "content_type": 16,
+        "codename": "delete_turno"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+        "name": "Can view turno",
+        "content_type": 16,
+        "codename": "view_turno"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$OoSOmCs3QZIs3nfC5NuM2K$KxnToY3i8YghnSUYAW+OU5zHMrVrdRGgQ/s5M3PfwLk=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "daniel.ortiz.caraballo.al@iespolionosur.org",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-11-15T23:43:20.542",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 1,
+    "fields": {
+        "nombre": "Visit mission late listen attack. Money art sit professional some personal level.",
+        "dni": "00549763V",
+        "email": "iallen@example.org",
+        "telefono": "Always around have.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 2,
+    "fields": {
+        "nombre": "Else ask physical. No time commercial together director.",
+        "dni": "04349542N",
+        "email": "taylordavis@example.org",
+        "telefono": "Argue wish become.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 3,
+    "fields": {
+        "nombre": "Place leader hot game pattern writer. Former from score Congress war.",
+        "dni": "58606193P",
+        "email": "borr@example.com",
+        "telefono": "Personal attack.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 4,
+    "fields": {
+        "nombre": "Organization light reality word investment. Part simple social friend.",
+        "dni": "69894799F",
+        "email": "rojasjames@example.net",
+        "telefono": "About cause work.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 5,
+    "fields": {
+        "nombre": "Generation adult case. Admit organization area bank economic example size shake.",
+        "dni": "50091667J",
+        "email": "brookskristy@example.org",
+        "telefono": "Born option middle.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 6,
+    "fields": {
+        "nombre": "Station similar win professor.",
+        "dni": "44444529L",
+        "email": "zjones@example.org",
+        "telefono": "Smile safe expert.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 7,
+    "fields": {
+        "nombre": "Clearly write land eye realize tough. Trip simple image sign activity have.",
+        "dni": "33841830K",
+        "email": "ereed@example.net",
+        "telefono": "Rather authority.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 8,
+    "fields": {
+        "nombre": "Evening way one. World wonder money. Son else as become support sense.",
+        "dni": "44837097T",
+        "email": "brianromero@example.net",
+        "telefono": "Represent your.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 9,
+    "fields": {
+        "nombre": "Beat small pick tree lawyer. Evening between word.\nHope will medical money traditional.",
+        "dni": "55817636V",
+        "email": "nicolas37@example.com",
+        "telefono": "Feeling whether.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 10,
+    "fields": {
+        "nombre": "Term firm social. Dark these power. Option people themselves society attack ahead huge worker.",
+        "dni": "30452538D",
+        "email": "fuentesgreg@example.org",
+        "telefono": "Culture others away.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 11,
+    "fields": {
+        "nombre": "Since evidence begin industry door. West certain push rest next. Us business it pick agreement.",
+        "dni": "40625377V",
+        "email": "xburns@example.org",
+        "telefono": "Traditional officer.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 12,
+    "fields": {
+        "nombre": "Watch several method. Present relate six seek two again.",
+        "dni": "07696466E",
+        "email": "joshua54@example.net",
+        "telefono": "Dream candidate.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 13,
+    "fields": {
+        "nombre": "Laugh long full radio. Care former area low son positive election.",
+        "dni": "36223106S",
+        "email": "shawn64@example.net",
+        "telefono": "Us he manage.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 14,
+    "fields": {
+        "nombre": "Per seek such community will data. At west lay policy.",
+        "dni": "52194668D",
+        "email": "kellycallahan@example.org",
+        "telefono": "Phone federal.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 15,
+    "fields": {
+        "nombre": "Trip treat network decide bit. Simple kid administration campaign effort success.",
+        "dni": "81729247N",
+        "email": "simsmichele@example.org",
+        "telefono": "Seem good itself.",
+        "fecha_alta": "2026-11-15",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 16,
+    "fields": {
+        "nombre": "Javiera Santamaria Barrena",
+        "dni": "94709732X",
+        "email": "chaparromiguel@example.net",
+        "telefono": "+34 986 53 06 99",
+        "fecha_alta": "2023-08-22",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 17,
+    "fields": {
+        "nombre": "Josué Natanael Bonilla Roura",
+        "dni": "84126672D",
+        "email": "vduque@example.net",
+        "telefono": "+34 861541001",
+        "fecha_alta": "2024-10-06",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 18,
+    "fields": {
+        "nombre": "Bartolomé Nogueira-Jaume",
+        "dni": "02860691C",
+        "email": "danilomartinez@example.com",
+        "telefono": "+34706 66 09 33",
+        "fecha_alta": "2023-09-23",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 19,
+    "fields": {
+        "nombre": "Jenny Zamora Rovira",
+        "dni": "18963775E",
+        "email": "calvetsusana@example.net",
+        "telefono": "+34943 747 552",
+        "fecha_alta": "2023-12-01",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 20,
+    "fields": {
+        "nombre": "Isidora Matas Torres",
+        "dni": "32005973R",
+        "email": "odalys98@example.org",
+        "telefono": "+34920 50 35 43",
+        "fecha_alta": "2025-02-01",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 21,
+    "fields": {
+        "nombre": "Cristina del Rebollo",
+        "dni": "78373074E",
+        "email": "mgimeno@example.org",
+        "telefono": "+34 920643729",
+        "fecha_alta": "2026-07-21",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 22,
+    "fields": {
+        "nombre": "Javier Tudela Galan",
+        "dni": "04307027R",
+        "email": "omorales@example.org",
+        "telefono": "+34882 82 18 78",
+        "fecha_alta": "2025-10-07",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 23,
+    "fields": {
+        "nombre": "Fabio Guerrero Vergara",
+        "dni": "41618043A",
+        "email": "mohamed50@example.com",
+        "telefono": "+34 984 236 901",
+        "fecha_alta": "2023-10-19",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 24,
+    "fields": {
+        "nombre": "Verónica Maestre-Escalona",
+        "dni": "76024082C",
+        "email": "dionisiosainz@example.org",
+        "telefono": "+34881 94 44 89",
+        "fecha_alta": "2026-03-31",
+        "activo": false
+    }
+},
+{
+    "model": "limpieza.limpiador",
+    "pk": 25,
+    "fields": {
+        "nombre": "Úrsula de Cabezas",
+        "dni": "36229416T",
+        "email": "esteralfonso@example.net",
+        "telefono": "+34 876 866 555",
+        "fecha_alta": "2024-06-14",
+        "activo": true
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 1,
+    "fields": {
+        "limpiador": 5,
+        "observaciones": "Production far into life purpose direction health science. List open front effect drop.\nScene understand trial thank ahead partner. Either his write of. Response must standard side if lose.",
+        "anios_experiencia": 6499,
+        "talla_guantes": "S",
+        "foto_url": "http://wells-thomas.org/tag/search/bloghome.htm"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 2,
+    "fields": {
+        "limpiador": 9,
+        "observaciones": "Table whom he course reality between. Bad none next.\nNow least buy indicate others land. What individual enough drive safe clear. Someone matter international official.",
+        "anios_experiencia": 22826,
+        "talla_guantes": "S",
+        "foto_url": "http://www.whitaker-gonzales.net/search/appindex.html"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 3,
+    "fields": {
+        "limpiador": 14,
+        "observaciones": "Allow guy organization floor. Door family financial make grow. Should likely movie card organization knowledge change.",
+        "anios_experiencia": 26676,
+        "talla_guantes": "M",
+        "foto_url": "http://ruiz-brown.com/tags/categoriesauthor.html"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 4,
+    "fields": {
+        "limpiador": 12,
+        "observaciones": "Large actually than international bill soldier approach. Issue see research pressure. Article support natural end available claim learn tell.",
+        "anios_experiencia": 4976,
+        "talla_guantes": "L",
+        "foto_url": "https://www.martin.com/categoryindex.htm"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 5,
+    "fields": {
+        "limpiador": 7,
+        "observaciones": "Worry film response win cut size gun. Behavior want environment artist. Discover natural matter cultural offer draw language.",
+        "anios_experiencia": 18942,
+        "talla_guantes": "S",
+        "foto_url": "http://lewis.org/category/list/tagmain.htm"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 6,
+    "fields": {
+        "limpiador": 8,
+        "observaciones": "Court allow drive serious card thing. Experience just trade not save. Research never somebody responsibility police throw.\nEasy field camera person production. Actually change process run.",
+        "anios_experiencia": 15706,
+        "talla_guantes": "L",
+        "foto_url": "http://baker.org/tag/explore/tagauthor.php"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 7,
+    "fields": {
+        "limpiador": 10,
+        "observaciones": "Them yet into camera score. War fine realize ground.\nCan morning church their. Own mouth land church west financial.\nTraining pressure team laugh. Forward other trial hold law.",
+        "anios_experiencia": 18303,
+        "talla_guantes": "XL",
+        "foto_url": "http://www.ryan.com/tags/mainprivacy.asp"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 8,
+    "fields": {
+        "limpiador": 11,
+        "observaciones": "Partner despite among personal. However four Mr building couple.\nDirector fact travel education just floor decision. Assume notice season.",
+        "anios_experiencia": 25690,
+        "talla_guantes": "S",
+        "foto_url": "https://thomas.com/categoriesterms.jsp"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 9,
+    "fields": {
+        "limpiador": 6,
+        "observaciones": "Space you factor eye. Play although sort everybody thousand.\nHit especially side act most put listen force. Another send author among your concern.",
+        "anios_experiencia": 26940,
+        "talla_guantes": "M",
+        "foto_url": "http://walker-young.com/category/blogregister.asp"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 10,
+    "fields": {
+        "limpiador": 3,
+        "observaciones": "Before especially add light can speech.\nEdge century their home she. Car itself doctor score science.",
+        "anios_experiencia": 30095,
+        "talla_guantes": "S",
+        "foto_url": "https://www.friedman.org/wp-contentfaq.jsp"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 11,
+    "fields": {
+        "limpiador": 2,
+        "observaciones": "Foot third leave person. Author finally require break place hour take. Assume traditional could always cup especially upon dream.",
+        "anios_experiencia": 4988,
+        "talla_guantes": "S",
+        "foto_url": "http://jordan.info/tags/tagcategory.php"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 12,
+    "fields": {
+        "limpiador": 4,
+        "observaciones": "Read cost Democrat fear. Source identify agree technology.\nAround professor where relationship single vote more. Specific vote sit conference final type.",
+        "anios_experiencia": 6598,
+        "talla_guantes": "M",
+        "foto_url": "http://www.bowen-lowery.biz/tagssearch.html"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 13,
+    "fields": {
+        "limpiador": 1,
+        "observaciones": "Remember worry add relate market society. Middle interest yet rather. Should number pressure leader will many.\nPoor sure read blood. Article chance entire forget. Protect author loss will.",
+        "anios_experiencia": 3651,
+        "talla_guantes": "L",
+        "foto_url": "https://www.brock.net/blog/blogsearch.htm"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 14,
+    "fields": {
+        "limpiador": 15,
+        "observaciones": "Most itself entire decade protect new rate. Rule suggest century low region father.\nFact four relate. Choose customer more especially on can range them. Lead according fine part.",
+        "anios_experiencia": 29581,
+        "talla_guantes": "L",
+        "foto_url": "http://www.green.net/posts/blogindex.jsp"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 15,
+    "fields": {
+        "limpiador": 13,
+        "observaciones": "Kid southern current increase letter mouth. Which level development maintain market.",
+        "anios_experiencia": 14843,
+        "talla_guantes": "XL",
+        "foto_url": "https://www.martin.info/wp-content/mainhome.html"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 16,
+    "fields": {
+        "limpiador": 16,
+        "observaciones": "Rey educación centros santa grado cuarto.",
+        "anios_experiencia": 9,
+        "talla_guantes": "L",
+        "foto_url": "https://bayo.es/"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 17,
+    "fields": {
+        "limpiador": 17,
+        "observaciones": "Sobre quiere autor más.",
+        "anios_experiencia": 15,
+        "talla_guantes": "L",
+        "foto_url": "https://www.promociones.es/"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 18,
+    "fields": {
+        "limpiador": 18,
+        "observaciones": "Donde hablar partir otro trata joven septiembre seguridad.",
+        "anios_experiencia": 22,
+        "talla_guantes": "S",
+        "foto_url": "https://supermercados.com/"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 19,
+    "fields": {
+        "limpiador": 19,
+        "observaciones": "Fiscal voluntad cultura justicia radio mesa.",
+        "anios_experiencia": 15,
+        "talla_guantes": "XL",
+        "foto_url": "https://promociones.com/"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 20,
+    "fields": {
+        "limpiador": 20,
+        "observaciones": "Fuentes semanas sangre.",
+        "anios_experiencia": 16,
+        "talla_guantes": "S",
+        "foto_url": "https://salas.org/"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 21,
+    "fields": {
+        "limpiador": 21,
+        "observaciones": "Buenos unas especial sabe curso aparece.",
+        "anios_experiencia": 23,
+        "talla_guantes": "M",
+        "foto_url": "https://hotel.net/"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 22,
+    "fields": {
+        "limpiador": 22,
+        "observaciones": "Tiene partidos partidos he ver va informe.",
+        "anios_experiencia": 8,
+        "talla_guantes": "M",
+        "foto_url": "http://www.farmaceutica.com/"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 23,
+    "fields": {
+        "limpiador": 23,
+        "observaciones": "Propios y cuerpo deseo modelo mayor madre.",
+        "anios_experiencia": 8,
+        "talla_guantes": "L",
+        "foto_url": "http://www.fabrica.es/"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 24,
+    "fields": {
+        "limpiador": 24,
+        "observaciones": "Medida educación calle revolución temas será esas.",
+        "anios_experiencia": 13,
+        "talla_guantes": "L",
+        "foto_url": "http://logistica.com/"
+    }
+},
+{
+    "model": "limpieza.perfillimpiador",
+    "pk": 25,
+    "fields": {
+        "limpiador": 25,
+        "observaciones": "Difícil veces cuatro importantes tomar parte medios.",
+        "anios_experiencia": 13,
+        "talla_guantes": "M",
+        "foto_url": "https://suministros.es/"
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 1,
+    "fields": {
+        "nombre": "Adult painting point security. Wear range positive church case hold series.",
+        "direccion": "Remain store third attention detail line land. Open almost high natural. Recognize seven spend property medical their year action. However nearly day possible store bag.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.1752886798872283,
+        "fecha_apertura": "1976-08-29",
+        "jefe_equipo": 7
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 2,
+    "fields": {
+        "nombre": "Rise financial evening economic until. Experience region former read.",
+        "direccion": "You similar meeting theory experience child exactly. Machine black machine meet.\nCourse a or through practice take. Check current there memory. Manager same western create past.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.4347284242834929,
+        "fecha_apertura": "2010-04-04",
+        "jefe_equipo": 14
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 3,
+    "fields": {
+        "nombre": "Red peace up. Place report ability example dinner where. Will avoid guess window push.",
+        "direccion": "Over place lead subject live security. Where station imagine light surface on.\nHold teacher maybe employee vote. Billion fish light everyone worry meet happy rock.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.06212446388387638,
+        "fecha_apertura": "1998-01-10",
+        "jefe_equipo": 5
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 4,
+    "fields": {
+        "nombre": "Yes produce husband miss recognize room. System wear garden answer each.",
+        "direccion": "Relationship off debate college. Friend receive dream prepare. Out decision across.\nStaff road former early. Unit budget trial tell price.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.1273439121824984,
+        "fecha_apertura": "2019-04-16",
+        "jefe_equipo": 6
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 5,
+    "fields": {
+        "nombre": "Simple recently section none. Itself hot direction continue forget.",
+        "direccion": "Cultural small school save east. Camera defense some these strong ever. Result find possible where media ask.\nBy interesting we Democrat way protect everything.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.563831488881497,
+        "fecha_apertura": "2014-08-08",
+        "jefe_equipo": 12
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 6,
+    "fields": {
+        "nombre": "Off learn away. Network court station perhaps. Why religious program according partner.",
+        "direccion": "Cup example ok house physical.\nConference specific generation buy state career stay run. Process them yes author room look. Candidate piece specific.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.0751473384576351,
+        "fecha_apertura": "1981-06-14",
+        "jefe_equipo": 9
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 7,
+    "fields": {
+        "nombre": "Require fish quickly college wear. Head meeting type sit research hand.",
+        "direccion": "While executive maybe effort. Ahead dog town over. Always seven throw imagine. Remain far action scene type box add.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.7341201131838548,
+        "fecha_apertura": "1998-11-24",
+        "jefe_equipo": 11
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 8,
+    "fields": {
+        "nombre": "Wife customer according public Congress next. Skill standard part upon fly.",
+        "direccion": "Sign see air out allow. Company forget responsibility and message better live society. Or understand professor skill. Discover reduce health star group.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.539667050098076,
+        "fecha_apertura": "1970-12-17",
+        "jefe_equipo": 13
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 9,
+    "fields": {
+        "nombre": "Seem require speech compare once article. Expert rise check main trip. Attention loss owner.",
+        "direccion": "Member marriage design save manager record. Almost perhaps hot machine.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.16270377724769303,
+        "fecha_apertura": "1999-08-09",
+        "jefe_equipo": 8
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 10,
+    "fields": {
+        "nombre": "While strong store environment school. Amount way miss order.",
+        "direccion": "Television affect continue cause data form. Party medical before at material. Most reduce official parent order like.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.4215559707721682,
+        "fecha_apertura": "2008-12-05",
+        "jefe_equipo": 3
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 11,
+    "fields": {
+        "nombre": "Paper without mention ago energy. Treat site reduce himself keep.",
+        "direccion": "Beautiful occur money its cause tax skin. Different really in market dinner story provide.\nMajority trade kitchen new say more. All billion notice item. Husband through truth.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.17610293158972223,
+        "fecha_apertura": "1975-08-26",
+        "jefe_equipo": 2
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 12,
+    "fields": {
+        "nombre": "Budget start as career soldier. Artist wrong author law executive loss.",
+        "direccion": "Able vote could someone. At food both one.\nAuthor quality century. Across attention around eight hear computer window improve.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.1909231009930119,
+        "fecha_apertura": "2019-01-30",
+        "jefe_equipo": 15
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 13,
+    "fields": {
+        "nombre": "Mrs building quality goal history. Democrat where raise amount.\nUpon level voice.",
+        "direccion": "War financial teach. Sea offer figure really report since. Cover case sister impact democratic environment effect. Night simple trial detail until learn left.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.6622664140947975,
+        "fecha_apertura": "1995-08-29",
+        "jefe_equipo": 4
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 14,
+    "fields": {
+        "nombre": "Structure soon help dream up activity. Throughout west vote simply.",
+        "direccion": "Mention no responsibility quality. Sell matter hold property during enough.\nTell develop while see family take. Three him long off defense beyond finish. Feeling imagine art short.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.5104709532800692,
+        "fecha_apertura": "1979-02-10",
+        "jefe_equipo": 10
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 15,
+    "fields": {
+        "nombre": "Last similar certainly these professional contain. Own defense cold dog response.",
+        "direccion": "Network night contain purpose every score street everyone. Recognize very term across remain. Security between upon decision.",
+        "ciudad": "Sevilla",
+        "superficie_m2": 0.5864971816880963,
+        "fecha_apertura": "1972-09-22",
+        "jefe_equipo": 1
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 16,
+    "fields": {
+        "nombre": "Lagoh",
+        "direccion": "Urbanización Fermín Cánovas 2",
+        "ciudad": "Sevilla",
+        "superficie_m2": 41693.6,
+        "fecha_apertura": "2012-02-04",
+        "jefe_equipo": 16
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 17,
+    "fields": {
+        "nombre": "Torre Sevilla",
+        "direccion": "Callejón Primitiva Guerrero 43",
+        "ciudad": "Sevilla",
+        "superficie_m2": 61571.6,
+        "fecha_apertura": "2017-10-06",
+        "jefe_equipo": 17
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 18,
+    "fields": {
+        "nombre": "Nervión Plaza",
+        "direccion": "Callejón de Sergio Pedrero 888",
+        "ciudad": "Sevilla",
+        "superficie_m2": 73910.4,
+        "fecha_apertura": "2014-09-22",
+        "jefe_equipo": 18
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 19,
+    "fields": {
+        "nombre": "Los Arcos",
+        "direccion": "Ronda de Valentín Cuevas 782 Apt. 99 ",
+        "ciudad": "Sevilla",
+        "superficie_m2": 41890.3,
+        "fecha_apertura": "2018-05-19",
+        "jefe_equipo": 19
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 20,
+    "fields": {
+        "nombre": "Plaza de Armas",
+        "direccion": "Pasaje Reynaldo Gallardo 5",
+        "ciudad": "Sevilla",
+        "superficie_m2": 21237.4,
+        "fecha_apertura": "2019-06-11",
+        "jefe_equipo": 20
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 21,
+    "fields": {
+        "nombre": "Airesur",
+        "direccion": "Alameda de Olga Pareja 242 Apt. 86 ",
+        "ciudad": "Sevilla",
+        "superficie_m2": 51581.9,
+        "fecha_apertura": "2017-01-03",
+        "jefe_equipo": null
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 22,
+    "fields": {
+        "nombre": "Metromar",
+        "direccion": "Callejón de Loida Cid 93 Apt. 58 ",
+        "ciudad": "Sevilla",
+        "superficie_m2": 79248.3,
+        "fecha_apertura": "2017-11-09",
+        "jefe_equipo": null
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 23,
+    "fields": {
+        "nombre": "Parque Corredor",
+        "direccion": "Alameda de Ariel Carpio 23",
+        "ciudad": "Sevilla",
+        "superficie_m2": 38298.8,
+        "fecha_apertura": "2012-03-08",
+        "jefe_equipo": null
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 24,
+    "fields": {
+        "nombre": "Centro Comercial Sur",
+        "direccion": "Via de Lucas Ródenas 24",
+        "ciudad": "Sevilla",
+        "superficie_m2": 73946.7,
+        "fecha_apertura": "2021-12-08",
+        "jefe_equipo": null
+    }
+},
+{
+    "model": "limpieza.centro",
+    "pk": 25,
+    "fields": {
+        "nombre": "Centro Comercial Norte",
+        "direccion": "Plaza Ambrosio Hierro 77 Puerta 9 ",
+        "ciudad": "Sevilla",
+        "superficie_m2": 86512.4,
+        "fecha_apertura": "2014-08-17",
+        "jefe_equipo": null
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 1,
+    "fields": {
+        "codigo": "Woman.",
+        "planta": -10699,
+        "tipo": "ADAPTADO",
+        "accesible": false,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "2023-11-28",
+        "centro": 15
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 2,
+    "fields": {
+        "codigo": "Director.",
+        "planta": -1189,
+        "tipo": "ADAPTADO",
+        "accesible": false,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "1982-02-01",
+        "centro": 10
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 3,
+    "fields": {
+        "codigo": "Around.",
+        "planta": 15288,
+        "tipo": "ADAPTADO",
+        "accesible": true,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "1971-01-06",
+        "centro": 1
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 4,
+    "fields": {
+        "codigo": "Professor.",
+        "planta": -27928,
+        "tipo": "HOMBRES",
+        "accesible": true,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "1981-10-23",
+        "centro": 15
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 5,
+    "fields": {
+        "codigo": "Simple.",
+        "planta": -1219,
+        "tipo": "MUJERES",
+        "accesible": false,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "1977-02-27",
+        "centro": 2
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 6,
+    "fields": {
+        "codigo": "Produce.",
+        "planta": -7979,
+        "tipo": "MUJERES",
+        "accesible": true,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "1979-06-28",
+        "centro": 3
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 7,
+    "fields": {
+        "codigo": "Blue.",
+        "planta": 24164,
+        "tipo": "MUJERES",
+        "accesible": false,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "1994-05-07",
+        "centro": 8
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 8,
+    "fields": {
+        "codigo": "Produce.",
+        "planta": -2140,
+        "tipo": "HOMBRES",
+        "accesible": true,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "2004-01-24",
+        "centro": 4
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 9,
+    "fields": {
+        "codigo": "Address.",
+        "planta": 9097,
+        "tipo": "MUJERES",
+        "accesible": false,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "2008-05-20",
+        "centro": 9
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 10,
+    "fields": {
+        "codigo": "Eye event.",
+        "planta": -23323,
+        "tipo": "HOMBRES",
+        "accesible": true,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "1994-12-22",
+        "centro": 12
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 11,
+    "fields": {
+        "codigo": "Either.",
+        "planta": 30044,
+        "tipo": "FAMILIA",
+        "accesible": false,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "2009-07-30",
+        "centro": 3
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 12,
+    "fields": {
+        "codigo": "His great.",
+        "planta": -14294,
+        "tipo": "ADAPTADO",
+        "accesible": true,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "2009-01-04",
+        "centro": 7
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 13,
+    "fields": {
+        "codigo": "Speak.",
+        "planta": 13605,
+        "tipo": "MUJERES",
+        "accesible": true,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "2020-07-02",
+        "centro": 4
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 14,
+    "fields": {
+        "codigo": "Into guy.",
+        "planta": 8640,
+        "tipo": "FAMILIA",
+        "accesible": false,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "1971-07-24",
+        "centro": 9
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 15,
+    "fields": {
+        "codigo": "Since.",
+        "planta": -17307,
+        "tipo": "MUJERES",
+        "accesible": false,
+        "num_cabinas": 1,
+        "fecha_ultima_reforma": "2002-05-18",
+        "centro": 9
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 16,
+    "fields": {
+        "codigo": "A-1",
+        "planta": -1,
+        "tipo": "MUJERES",
+        "accesible": true,
+        "num_cabinas": 4,
+        "fecha_ultima_reforma": "2021-05-30",
+        "centro": 16
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 17,
+    "fields": {
+        "codigo": "A-2",
+        "planta": 3,
+        "tipo": "HOMBRES",
+        "accesible": false,
+        "num_cabinas": 2,
+        "fecha_ultima_reforma": "2023-07-23",
+        "centro": 16
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 18,
+    "fields": {
+        "codigo": "A-3",
+        "planta": 3,
+        "tipo": "ADAPTADO",
+        "accesible": true,
+        "num_cabinas": 2,
+        "fecha_ultima_reforma": "2021-11-04",
+        "centro": 16
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 19,
+    "fields": {
+        "codigo": "A-4",
+        "planta": 1,
+        "tipo": "FAMILIA",
+        "accesible": false,
+        "num_cabinas": 6,
+        "fecha_ultima_reforma": "2020-12-26",
+        "centro": 16
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 20,
+    "fields": {
+        "codigo": "A-5",
+        "planta": -1,
+        "tipo": "ADAPTADO",
+        "accesible": true,
+        "num_cabinas": 5,
+        "fecha_ultima_reforma": "2025-05-22",
+        "centro": 16
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 21,
+    "fields": {
+        "codigo": "A-6",
+        "planta": 1,
+        "tipo": "FAMILIA",
+        "accesible": true,
+        "num_cabinas": 2,
+        "fecha_ultima_reforma": "2024-04-29",
+        "centro": 16
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 22,
+    "fields": {
+        "codigo": "A-7",
+        "planta": 3,
+        "tipo": "FAMILIA",
+        "accesible": false,
+        "num_cabinas": 6,
+        "fecha_ultima_reforma": "2024-04-22",
+        "centro": 17
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 23,
+    "fields": {
+        "codigo": "A-8",
+        "planta": 1,
+        "tipo": "HOMBRES",
+        "accesible": true,
+        "num_cabinas": 6,
+        "fecha_ultima_reforma": "2023-06-09",
+        "centro": 18
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 24,
+    "fields": {
+        "codigo": "A-9",
+        "planta": 2,
+        "tipo": "FAMILIA",
+        "accesible": false,
+        "num_cabinas": 7,
+        "fecha_ultima_reforma": "2021-01-12",
+        "centro": 18
+    }
+},
+{
+    "model": "limpieza.aseo",
+    "pk": 25,
+    "fields": {
+        "codigo": "A-10",
+        "planta": 3,
+        "tipo": "FAMILIA",
+        "accesible": true,
+        "num_cabinas": 10,
+        "fecha_ultima_reforma": "2023-05-07",
+        "centro": 17
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 1,
+    "fields": {
+        "tipo": "MANANA",
+        "fecha": "2005-06-26",
+        "hora_inicio": "12:11:31",
+        "hora_fin": "19:46:42",
+        "notas": "Production current theory put. Move detail PM street Mr bar scientist. Style little sort drop first end provide.",
+        "centro": 7
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 2,
+    "fields": {
+        "tipo": "NOCHE",
+        "fecha": "1972-07-22",
+        "hora_inicio": "15:25:23",
+        "hora_fin": "17:09:30",
+        "notas": "Suffer its first. Pattern test say treatment.\nOfficial plan rest than white order property seven. Run factor first whether.",
+        "centro": 4
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 3,
+    "fields": {
+        "tipo": "MANANA",
+        "fecha": "2004-11-29",
+        "hora_inicio": "01:10:34",
+        "hora_fin": "23:20:22",
+        "notas": "Good opportunity own traditional sell wrong half. Figure join dark half authority could. Himself detail happy that country house course ok. Tell national response.",
+        "centro": 11
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 4,
+    "fields": {
+        "tipo": "NOCHE",
+        "fecha": "1976-01-20",
+        "hora_inicio": "17:53:26",
+        "hora_fin": "05:07:06",
+        "notas": "Claim several song six suffer long fly wind. Than who company within walk. With tough read meet seem outside.",
+        "centro": 4
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 5,
+    "fields": {
+        "tipo": "TARDE",
+        "fecha": "1982-07-18",
+        "hora_inicio": "22:01:29",
+        "hora_fin": "03:10:14",
+        "notas": "Certain very thought everything realize like between. Cold office tree time accept entire catch. Moment book parent cell hour.",
+        "centro": 3
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 6,
+    "fields": {
+        "tipo": "TARDE",
+        "fecha": "1997-12-21",
+        "hora_inicio": "03:45:06",
+        "hora_fin": "18:46:31",
+        "notas": "Could left speak power leg every imagine. Democrat reduce safe including he month big. Catch dog last report behind language parent somebody.",
+        "centro": 3
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 7,
+    "fields": {
+        "tipo": "MANANA",
+        "fecha": "2008-07-22",
+        "hora_inicio": "18:10:01",
+        "hora_fin": "00:06:27",
+        "notas": "Describe discussion either although anyone three business. Daughter animal week former candidate. Nice land book degree property PM.\nYou miss scene discussion.",
+        "centro": 3
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 8,
+    "fields": {
+        "tipo": "TARDE",
+        "fecha": "1976-03-24",
+        "hora_inicio": "11:43:28",
+        "hora_fin": "04:00:58",
+        "notas": "Happen type owner us fund long south admit. Truth anyone education pick media.\nBenefit mention guy answer clear group. Want media sure just page. Benefit financial character per test.",
+        "centro": 8
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 9,
+    "fields": {
+        "tipo": "MANANA",
+        "fecha": "1988-10-29",
+        "hora_inicio": "07:55:57",
+        "hora_fin": "14:17:00",
+        "notas": "Finally ago serious bar.\nAvailable boy care song goal. Lot generation indeed expect pressure structure. Born short list smile civil message.",
+        "centro": 12
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 10,
+    "fields": {
+        "tipo": "TARDE",
+        "fecha": "1987-09-07",
+        "hora_inicio": "13:55:09",
+        "hora_fin": "03:29:10",
+        "notas": "Fight organization light. Wish international buy chair he court. Land assume situation detail thus.\nPhysical use tonight look accept either same property. Fast cut six street.",
+        "centro": 13
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 11,
+    "fields": {
+        "tipo": "MANANA",
+        "fecha": "2014-04-02",
+        "hora_inicio": "20:00:16",
+        "hora_fin": "19:22:47",
+        "notas": "First true describe size idea party main. Trade tree situation tough music yourself attack PM. Parent pressure member opportunity term interesting almost want.",
+        "centro": 6
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 12,
+    "fields": {
+        "tipo": "MANANA",
+        "fecha": "1973-01-09",
+        "hora_inicio": "18:09:31",
+        "hora_fin": "21:16:29",
+        "notas": "Likely yourself past audience ok method. Energy majority tax theory. Their site understand. For water sometimes poor protect personal.",
+        "centro": 7
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 13,
+    "fields": {
+        "tipo": "NOCHE",
+        "fecha": "1980-06-25",
+        "hora_inicio": "03:05:09",
+        "hora_fin": "02:20:28",
+        "notas": "Stand political north. By parent be organization subject kid card. Opportunity wear kind price seem. Level environmental like southern project new yes.",
+        "centro": 14
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 14,
+    "fields": {
+        "tipo": "MANANA",
+        "fecha": "1987-08-20",
+        "hora_inicio": "05:11:37",
+        "hora_fin": "05:08:49",
+        "notas": "Foot loss it without continue conference. Computer who crime particular. Indeed charge process floor hit phone. Main thing bag perhaps product wife.",
+        "centro": 6
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 15,
+    "fields": {
+        "tipo": "TARDE",
+        "fecha": "1989-08-11",
+        "hora_inicio": "14:58:13",
+        "hora_fin": "11:25:21",
+        "notas": "National woman south move night education everything. Affect line perform set himself future run risk.",
+        "centro": 6
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 16,
+    "fields": {
+        "tipo": "TARDE",
+        "fecha": "2026-11-14",
+        "hora_inicio": "15:00:00",
+        "hora_fin": "23:00:00",
+        "notas": "Autor familia última sur ser pone.",
+        "centro": 16
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 17,
+    "fields": {
+        "tipo": "NOCHE",
+        "fecha": "2026-11-01",
+        "hora_inicio": "23:00:00",
+        "hora_fin": "07:00:00",
+        "notas": "Otros tuvo junto visita grandes sabía poder destino.",
+        "centro": 16
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 18,
+    "fields": {
+        "tipo": "MANANA",
+        "fecha": "2026-11-16",
+        "hora_inicio": "07:00:00",
+        "hora_fin": "15:00:00",
+        "notas": "Europa éste está niño puso larga causa manera.",
+        "centro": 16
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 19,
+    "fields": {
+        "tipo": "TARDE",
+        "fecha": "2026-11-09",
+        "hora_inicio": "15:00:00",
+        "hora_fin": "23:00:00",
+        "notas": "Mes ideas esos siempre igual orden.",
+        "centro": 16
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 20,
+    "fields": {
+        "tipo": "NOCHE",
+        "fecha": "2026-11-03",
+        "hora_inicio": "23:00:00",
+        "hora_fin": "07:00:00",
+        "notas": "Cuenta izquierda fácil fecha cuerpo.",
+        "centro": 16
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 21,
+    "fields": {
+        "tipo": "MANANA",
+        "fecha": "2026-11-17",
+        "hora_inicio": "07:00:00",
+        "hora_fin": "15:00:00",
+        "notas": "Dado llegar total.",
+        "centro": 23
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 22,
+    "fields": {
+        "tipo": "MANANA",
+        "fecha": "2026-11-05",
+        "hora_inicio": "07:00:00",
+        "hora_fin": "15:00:00",
+        "notas": "Mundial lejos encuentro hermano económica crecimiento punto.",
+        "centro": 16
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 23,
+    "fields": {
+        "tipo": "MANANA",
+        "fecha": "2026-11-18",
+        "hora_inicio": "07:00:00",
+        "hora_fin": "15:00:00",
+        "notas": "Grado tiempo oficial debe mira zonas.",
+        "centro": 20
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 24,
+    "fields": {
+        "tipo": "MANANA",
+        "fecha": "2026-11-23",
+        "hora_inicio": "07:00:00",
+        "hora_fin": "15:00:00",
+        "notas": "Grandes tu dicho estoy atrás.",
+        "centro": 18
+    }
+},
+{
+    "model": "limpieza.turno",
+    "pk": 25,
+    "fields": {
+        "tipo": "MANANA",
+        "fecha": "2026-11-27",
+        "hora_inicio": "07:00:00",
+        "hora_fin": "15:00:00",
+        "notas": "Cosa cabeza hizo miguel medios partidos dicen.",
+        "centro": 19
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 1,
+    "fields": {
+        "limpiador": 9,
+        "turno": 11,
+        "confirmado": false,
+        "horas_extra": 0.2900062962729769,
+        "fecha_asignacion": "1989-11-21T18:19:23",
+        "observaciones": "Executive behavior idea look from thank sense. Beyond red among visit. Politics line discover behind on."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 2,
+    "fields": {
+        "limpiador": 12,
+        "turno": 2,
+        "confirmado": true,
+        "horas_extra": 0.30456434675565236,
+        "fecha_asignacion": "2018-05-27T03:00:17",
+        "observaciones": "Investment research rather see strong beat food. Admit somebody gun special least little very response."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 3,
+    "fields": {
+        "limpiador": 5,
+        "turno": 12,
+        "confirmado": false,
+        "horas_extra": 0.6191397836604613,
+        "fecha_asignacion": "2019-06-04T01:59:54",
+        "observaciones": "Despite look great animal number treatment when. Cell recent remember.\nJust glass chance book."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 4,
+    "fields": {
+        "limpiador": 6,
+        "turno": 1,
+        "confirmado": true,
+        "horas_extra": 0.3790894834848689,
+        "fecha_asignacion": "1992-07-11T02:40:38",
+        "observaciones": "Share she fine law stay step. Tell treatment society role family. As stop their.\nSeries professional control director example. Feeling deal catch plan hope."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 5,
+    "fields": {
+        "limpiador": 10,
+        "turno": 6,
+        "confirmado": false,
+        "horas_extra": 0.3325873017992116,
+        "fecha_asignacion": "2018-03-07T19:07:19",
+        "observaciones": "Pull you form anything financial response. South record too stage stand. Bad good management glass stage."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 6,
+    "fields": {
+        "limpiador": 5,
+        "turno": 9,
+        "confirmado": false,
+        "horas_extra": 0.9839876700161031,
+        "fecha_asignacion": "1976-10-11T16:54:43",
+        "observaciones": "Example accept significant him couple consumer. Cover light buy hotel civil politics west. Development never answer company trip wish green."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 7,
+    "fields": {
+        "limpiador": 7,
+        "turno": 5,
+        "confirmado": false,
+        "horas_extra": 0.5059694647023353,
+        "fecha_asignacion": "1996-09-02T19:09:10",
+        "observaciones": "Attention let operation message. Eye business rich. Especially gas prepare quality attorney.\nModel what part feel avoid television. Information suddenly degree."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 8,
+    "fields": {
+        "limpiador": 2,
+        "turno": 6,
+        "confirmado": false,
+        "horas_extra": 0.4881603596588294,
+        "fecha_asignacion": "2018-10-09T18:04:12",
+        "observaciones": "Artist four able almost management. Start accept as choice summer which. One war seven message economic able. Mind truth under fill ok issue."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 9,
+    "fields": {
+        "limpiador": 11,
+        "turno": 3,
+        "confirmado": false,
+        "horas_extra": 0.27530880035300087,
+        "fecha_asignacion": "1984-05-21T14:18:02",
+        "observaciones": "Republican focus if maybe exist. Order table onto always. Step whose sense front stage but dark. Rise under north open strong medical such especially."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 10,
+    "fields": {
+        "limpiador": 5,
+        "turno": 11,
+        "confirmado": false,
+        "horas_extra": 0.03865857477191015,
+        "fecha_asignacion": "2020-06-23T15:16:54",
+        "observaciones": "Above summer miss spring soon somebody thought. Activity woman exactly. Let son ever later modern wear I night."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 11,
+    "fields": {
+        "limpiador": 14,
+        "turno": 4,
+        "confirmado": true,
+        "horas_extra": 0.0630955766848057,
+        "fecha_asignacion": "2005-08-31T10:20:53",
+        "observaciones": "New team herself garden down. Clearly young benefit quality speak."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 12,
+    "fields": {
+        "limpiador": 14,
+        "turno": 15,
+        "confirmado": true,
+        "horas_extra": 0.12374015304181651,
+        "fecha_asignacion": "2026-05-18T10:10:39",
+        "observaciones": "Effort great include last north hotel real. Sing difficult character. Hair but or more bank ground particular."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 13,
+    "fields": {
+        "limpiador": 4,
+        "turno": 4,
+        "confirmado": true,
+        "horas_extra": 0.8879820307399624,
+        "fecha_asignacion": "1979-11-18T06:57:33",
+        "observaciones": "Traditional still name career relationship individual interesting. Discussion pick wish economic dream heavy teach."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 14,
+    "fields": {
+        "limpiador": 14,
+        "turno": 14,
+        "confirmado": true,
+        "horas_extra": 0.606920002498624,
+        "fecha_asignacion": "2016-10-16T22:02:05",
+        "observaciones": "Dinner decade lot parent matter. Theory treatment even southern window Mr. Participant if hospital.\nMillion experience life behind. Send door teach bit serious produce maybe until."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 15,
+    "fields": {
+        "limpiador": 14,
+        "turno": 2,
+        "confirmado": false,
+        "horas_extra": 0.2934761274234272,
+        "fecha_asignacion": "2004-09-15T14:51:19",
+        "observaciones": "Three table camera themselves. Performance street wall.\nBoy series anyone really test a. Stand early method collection. Both daughter hard present positive model onto up."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 16,
+    "fields": {
+        "limpiador": 21,
+        "turno": 16,
+        "confirmado": false,
+        "horas_extra": 1.0,
+        "fecha_asignacion": "2026-11-15T23:43:35.921",
+        "observaciones": "Civil elecciones todavía."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 17,
+    "fields": {
+        "limpiador": 19,
+        "turno": 16,
+        "confirmado": true,
+        "horas_extra": 0.0,
+        "fecha_asignacion": "2026-11-15T23:43:35.926",
+        "observaciones": "Participación con propio últimos tomar capacidad presente."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 18,
+    "fields": {
+        "limpiador": 16,
+        "turno": 17,
+        "confirmado": true,
+        "horas_extra": 0.0,
+        "fecha_asignacion": "2026-11-15T23:43:35.932",
+        "observaciones": "Aunque mismos reunión principios carne diferentes diferencia."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 19,
+    "fields": {
+        "limpiador": 19,
+        "turno": 17,
+        "confirmado": false,
+        "horas_extra": 0.0,
+        "fecha_asignacion": "2026-11-15T23:43:35.938",
+        "observaciones": "Otro propuesta cuanto diversas dos trabajadores."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 20,
+    "fields": {
+        "limpiador": 18,
+        "turno": 18,
+        "confirmado": false,
+        "horas_extra": 0.0,
+        "fecha_asignacion": "2026-11-15T23:43:35.943",
+        "observaciones": "Muerto ley carta puerto estas instituciones tener hacen."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 21,
+    "fields": {
+        "limpiador": 20,
+        "turno": 18,
+        "confirmado": true,
+        "horas_extra": 0.0,
+        "fecha_asignacion": "2026-11-15T23:43:35.949",
+        "observaciones": "Producto diferentes nos área primeras cambio claro."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 22,
+    "fields": {
+        "limpiador": 19,
+        "turno": 19,
+        "confirmado": false,
+        "horas_extra": 0.5,
+        "fecha_asignacion": "2026-11-15T23:43:35.954",
+        "observaciones": "Octubre este ministerio elecciones miguel grande."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 23,
+    "fields": {
+        "limpiador": 17,
+        "turno": 19,
+        "confirmado": true,
+        "horas_extra": 0.0,
+        "fecha_asignacion": "2026-11-15T23:43:35.959",
+        "observaciones": "Ayer paz industria jorge."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 24,
+    "fields": {
+        "limpiador": 18,
+        "turno": 20,
+        "confirmado": true,
+        "horas_extra": 2.0,
+        "fecha_asignacion": "2026-11-15T23:43:35.965",
+        "observaciones": "Artículo se entrada muerte."
+    }
+},
+{
+    "model": "limpieza.cuadrante",
+    "pk": 25,
+    "fields": {
+        "limpiador": 20,
+        "turno": 20,
+        "confirmado": true,
+        "horas_extra": 0.0,
+        "fecha_asignacion": "2026-11-15T23:43:35.971",
+        "observaciones": "Misma hermano cambio generales amigos internacional mar esta."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 1,
+    "fields": {
+        "cuadrante": 13,
+        "hora_entrada": "1976-06-21T03:07:27",
+        "hora_salida": "1979-04-10T01:59:46",
+        "metodo": "MANUAL",
+        "observaciones": "Everything strategy way. Attention marriage when sometimes wide medical try grow. Pull crime amount half any consumer.\nNote arrive sea guy account. Week cover option money only meet need fall."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 2,
+    "fields": {
+        "cuadrante": 1,
+        "hora_entrada": "2008-03-16T03:46:19",
+        "hora_salida": "2001-01-03T00:24:43",
+        "metodo": "TARJETA",
+        "observaciones": "Decide low president learn start them government. Physical back wall hard fund sell room.\nFront message window good staff form military.\nImpact network bank customer. Coach week their exactly."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 3,
+    "fields": {
+        "cuadrante": 7,
+        "hora_entrada": "1983-07-19T01:18:04",
+        "hora_salida": "2003-07-16T18:41:07",
+        "metodo": "TARJETA",
+        "observaciones": "Them quality enter foot necessary. Safe machine skill couple. Meeting pull sound decade.\nThank fight first information method. That campaign sort experience service bad play."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 4,
+    "fields": {
+        "cuadrante": 2,
+        "hora_entrada": "2002-06-06T19:39:09",
+        "hora_salida": "1984-05-28T22:30:37",
+        "metodo": "MANUAL",
+        "observaciones": "Modern debate you want. Group only production hard ready people four.\nSpecific real sport common. Seat weight answer teacher after law affect that. Beyond fear some tell."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 5,
+    "fields": {
+        "cuadrante": 12,
+        "hora_entrada": "1985-10-16T20:12:02",
+        "hora_salida": "1972-04-24T17:15:43",
+        "metodo": "APP",
+        "observaciones": "Vote central too instead bill under. Property degree compare onto identify. Order land air material through grow. Together international very I."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 6,
+    "fields": {
+        "cuadrante": 10,
+        "hora_entrada": "1991-11-17T14:16:15",
+        "hora_salida": "1974-06-12T12:07:24",
+        "metodo": "TARJETA",
+        "observaciones": "Message country still people establish. Recently talk high poor.\nBoy more him this trip. Suffer window direction. Mission environmental understand system officer accept."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 7,
+    "fields": {
+        "cuadrante": 6,
+        "hora_entrada": "2025-04-06T20:55:19",
+        "hora_salida": "1987-03-19T07:46:26",
+        "metodo": "APP",
+        "observaciones": "Rule school here maybe apply. Say establish start lot production data thought cover.\nThan son near whose every PM you six. Cost near later of box. Certainly paper inside picture wear fund again."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 8,
+    "fields": {
+        "cuadrante": 9,
+        "hora_entrada": "2010-05-23T16:50:54",
+        "hora_salida": "2010-04-23T20:02:16",
+        "metodo": "MANUAL",
+        "observaciones": "Specific second possible hotel. Series form economic.\nHer hot speech. Piece baby administration. Page happy between style term."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 9,
+    "fields": {
+        "cuadrante": 15,
+        "hora_entrada": "2008-10-13T01:59:42",
+        "hora_salida": "2022-04-26T19:39:59",
+        "metodo": "APP",
+        "observaciones": "North do stage market. Good available by determine prove.\nI defense past toward owner environment. Since time team American. Time number rich on miss maybe."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 10,
+    "fields": {
+        "cuadrante": 3,
+        "hora_entrada": "2019-08-28T12:19:49",
+        "hora_salida": "1981-07-30T10:22:57",
+        "metodo": "APP",
+        "observaciones": "Blood million account begin kid. Scene structure its meeting require training every."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 11,
+    "fields": {
+        "cuadrante": 5,
+        "hora_entrada": "1987-08-01T07:47:56",
+        "hora_salida": "2020-01-22T15:55:39",
+        "metodo": "TARJETA",
+        "observaciones": "Magazine test just far rest point machine. Room rich night room attorney former painting.\nFree brother report scene place. Study only talk peace policy campaign send."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 12,
+    "fields": {
+        "cuadrante": 14,
+        "hora_entrada": "2015-11-08T03:08:20",
+        "hora_salida": "1989-04-18T19:08:12",
+        "metodo": "APP",
+        "observaciones": "Kid fish material increase idea center citizen argue. Admit there whom performance pretty.\nStory north relate head range."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 13,
+    "fields": {
+        "cuadrante": 11,
+        "hora_entrada": "1991-02-11T06:03:54",
+        "hora_salida": "1996-06-22T22:59:25",
+        "metodo": "TARJETA",
+        "observaciones": "Entire health tend.\nAttention realize factor writer present level still. Safe another parent manage."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 14,
+    "fields": {
+        "cuadrante": 4,
+        "hora_entrada": "2004-02-04T21:07:45",
+        "hora_salida": "2022-01-10T01:58:23",
+        "metodo": "TARJETA",
+        "observaciones": "Speak but can possible company strong. Even pull ten kind design.\nBack drug decision drop. Benefit organization admit toward doctor of. Event five much letter."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 15,
+    "fields": {
+        "cuadrante": 8,
+        "hora_entrada": "2005-11-05T11:49:39",
+        "hora_salida": "2012-02-15T04:38:04",
+        "metodo": "MANUAL",
+        "observaciones": "They life political. Structure fight move well down.\nStructure PM lawyer. Long father question message fire stuff people. Large act girl president."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 16,
+    "fields": {
+        "cuadrante": 16,
+        "hora_entrada": "2026-11-14T15:02:00",
+        "hora_salida": "2026-11-14T23:02:00",
+        "metodo": "MANUAL",
+        "observaciones": "Sueño primero figura nuevos c."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 17,
+    "fields": {
+        "cuadrante": 17,
+        "hora_entrada": "2026-11-14T15:12:00",
+        "hora_salida": "2026-11-14T23:12:00",
+        "metodo": "TARJETA",
+        "observaciones": "Mitad una diciembre santa finalmente felipe superior."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 18,
+    "fields": {
+        "cuadrante": 18,
+        "hora_entrada": "2026-11-01T22:58:00",
+        "hora_salida": "2026-11-02T06:58:00",
+        "metodo": "TARJETA",
+        "observaciones": "Juez imposible del veces."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 19,
+    "fields": {
+        "cuadrante": 19,
+        "hora_entrada": "2026-11-01T23:13:00",
+        "hora_salida": null,
+        "metodo": "APP",
+        "observaciones": "Figura afirmó serán ideas día juan metros."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 20,
+    "fields": {
+        "cuadrante": 20,
+        "hora_entrada": "2026-11-16T07:08:00",
+        "hora_salida": "2026-11-16T15:08:00",
+        "metodo": "APP",
+        "observaciones": "Quiere área tipos d."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 21,
+    "fields": {
+        "cuadrante": 21,
+        "hora_entrada": "2026-11-16T07:03:00",
+        "hora_salida": "2026-11-16T15:03:00",
+        "metodo": "APP",
+        "observaciones": "Objetivo causa llama tu sabía productos."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 22,
+    "fields": {
+        "cuadrante": 22,
+        "hora_entrada": "2026-11-09T15:03:00",
+        "hora_salida": null,
+        "metodo": "APP",
+        "observaciones": "Hechos medida han."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 23,
+    "fields": {
+        "cuadrante": 23,
+        "hora_entrada": "2026-11-09T15:07:00",
+        "hora_salida": null,
+        "metodo": "MANUAL",
+        "observaciones": "Precios puerto oro artículo era través."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 24,
+    "fields": {
+        "cuadrante": 24,
+        "hora_entrada": "2026-11-03T23:01:00",
+        "hora_salida": "2026-11-04T07:01:00",
+        "metodo": "TARJETA",
+        "observaciones": "Lleva televisión diario queda nadie carácter."
+    }
+},
+{
+    "model": "limpieza.fichaje",
+    "pk": 25,
+    "fields": {
+        "cuadrante": 25,
+        "hora_entrada": "2026-11-03T22:57:00",
+        "hora_salida": null,
+        "metodo": "APP",
+        "observaciones": "Jóvenes cuando diario mitad."
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 1,
+    "fields": {
+        "nombre": "Thus why ability article. Only east book detail.",
+        "categoria": "UTENSILIO",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.85",
+        "es_quimico": false,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 2,
+    "fields": {
+        "nombre": "Able drop soldier to. Often draw hear much dog garden message.",
+        "categoria": "JABON",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.69",
+        "es_quimico": false,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 3,
+    "fields": {
+        "nombre": "Deal address their teach truth involve. Sign wonder country year Congress.",
+        "categoria": "QUIMICO",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.54",
+        "es_quimico": false,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 4,
+    "fields": {
+        "nombre": "Marriage computer option. Strategy he card degree.",
+        "categoria": "QUIMICO",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.16",
+        "es_quimico": true,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 5,
+    "fields": {
+        "nombre": "Bad peace school join president forget. Member others base wait sport ok. Evening serious head.",
+        "categoria": "PROTECCION",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.56",
+        "es_quimico": true,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 6,
+    "fields": {
+        "nombre": "Two feeling field however difference. Argue who use him participant across early first.",
+        "categoria": "PROTECCION",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.88",
+        "es_quimico": false,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 7,
+    "fields": {
+        "nombre": "Speak manage various treat. Especially population if special year world. End final above out.",
+        "categoria": "PROTECCION",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.64",
+        "es_quimico": true,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 8,
+    "fields": {
+        "nombre": "Whom rise child whether almost central explain. Learn admit stay find you.",
+        "categoria": "PROTECCION",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.96",
+        "es_quimico": false,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 9,
+    "fields": {
+        "nombre": "Forget education raise cause. Care I agency military. Alone shake poor wait possible economy.",
+        "categoria": "PROTECCION",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.98",
+        "es_quimico": false,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 10,
+    "fields": {
+        "nombre": "Down method customer hear gas site.",
+        "categoria": "JABON",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.88",
+        "es_quimico": true,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 11,
+    "fields": {
+        "nombre": "Player appear lot beat fly many. Hair follow suffer describe. Ever society public science.",
+        "categoria": "QUIMICO",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.31",
+        "es_quimico": true,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 12,
+    "fields": {
+        "nombre": "Away somebody reveal take. Still family with job. Effect cup until.",
+        "categoria": "UTENSILIO",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.00",
+        "es_quimico": true,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 13,
+    "fields": {
+        "nombre": "Under remain trade including meet. Stuff practice military social participant game.",
+        "categoria": "UTENSILIO",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.86",
+        "es_quimico": true,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 14,
+    "fields": {
+        "nombre": "Want past former kind direction. Manage will many evening but themselves.",
+        "categoria": "JABON",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.27",
+        "es_quimico": false,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 15,
+    "fields": {
+        "nombre": "Line reach about ok because. End team candidate building along home. Positive worker yet consider.",
+        "categoria": "QUIMICO",
+        "unidad_medida": "unidades",
+        "precio_unidad": "0.15",
+        "es_quimico": false,
+        "stock_minimo": 5
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 16,
+    "fields": {
+        "nombre": "Papel higiénico",
+        "categoria": "PAPEL",
+        "unidad_medida": "rollos",
+        "precio_unidad": "3.21",
+        "es_quimico": false,
+        "stock_minimo": 8
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 17,
+    "fields": {
+        "nombre": "Papel secamanos",
+        "categoria": "PAPEL",
+        "unidad_medida": "paquetes",
+        "precio_unidad": "9.55",
+        "es_quimico": false,
+        "stock_minimo": 17
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 18,
+    "fields": {
+        "nombre": "Friegasuelos",
+        "categoria": "QUIMICO",
+        "unidad_medida": "litros",
+        "precio_unidad": "9.24",
+        "es_quimico": true,
+        "stock_minimo": 8
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 19,
+    "fields": {
+        "nombre": "Lejía",
+        "categoria": "QUIMICO",
+        "unidad_medida": "litros",
+        "precio_unidad": "12.59",
+        "es_quimico": true,
+        "stock_minimo": 7
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 20,
+    "fields": {
+        "nombre": "Limpiacristales",
+        "categoria": "QUIMICO",
+        "unidad_medida": "litros",
+        "precio_unidad": "9.95",
+        "es_quimico": true,
+        "stock_minimo": 6
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 21,
+    "fields": {
+        "nombre": "Jabón de manos",
+        "categoria": "JABON",
+        "unidad_medida": "litros",
+        "precio_unidad": "12.87",
+        "es_quimico": false,
+        "stock_minimo": 13
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 22,
+    "fields": {
+        "nombre": "Guantes de látex",
+        "categoria": "PROTECCION",
+        "unidad_medida": "cajas",
+        "precio_unidad": "10.65",
+        "es_quimico": false,
+        "stock_minimo": 15
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 23,
+    "fields": {
+        "nombre": "Bolsas de basura",
+        "categoria": "UTENSILIO",
+        "unidad_medida": "rollos",
+        "precio_unidad": "15.48",
+        "es_quimico": false,
+        "stock_minimo": 15
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 24,
+    "fields": {
+        "nombre": "Fregona",
+        "categoria": "UTENSILIO",
+        "unidad_medida": "unidades",
+        "precio_unidad": "10.83",
+        "es_quimico": false,
+        "stock_minimo": 20
+    }
+},
+{
+    "model": "limpieza.producto",
+    "pk": 25,
+    "fields": {
+        "nombre": "Ambientador",
+        "categoria": "QUIMICO",
+        "unidad_medida": "unidades",
+        "precio_unidad": "21.64",
+        "es_quimico": true,
+        "stock_minimo": 12
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 1,
+    "fields": {
+        "centro": 14,
+        "producto": 8,
+        "cantidad_actual": 10399,
+        "ubicacion": "Wear key southern training.",
+        "fecha_ultima_reposicion": "1994-06-10",
+        "necesita_reposicion": true
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 2,
+    "fields": {
+        "centro": 7,
+        "producto": 10,
+        "cantidad_actual": 30993,
+        "ubicacion": "East perhaps government sometimes.",
+        "fecha_ultima_reposicion": "1990-03-27",
+        "necesita_reposicion": true
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 3,
+    "fields": {
+        "centro": 9,
+        "producto": 8,
+        "cantidad_actual": 5590,
+        "ubicacion": "Rate ask public six. We chance character rock nearly how.",
+        "fecha_ultima_reposicion": "2024-05-21",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 4,
+    "fields": {
+        "centro": 4,
+        "producto": 8,
+        "cantidad_actual": 5300,
+        "ubicacion": "Follow spend sense speech.",
+        "fecha_ultima_reposicion": "2015-02-01",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 5,
+    "fields": {
+        "centro": 15,
+        "producto": 11,
+        "cantidad_actual": 20516,
+        "ubicacion": "Ahead international relate.",
+        "fecha_ultima_reposicion": "2013-09-01",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 6,
+    "fields": {
+        "centro": 1,
+        "producto": 12,
+        "cantidad_actual": 5426,
+        "ubicacion": "Budget focus feel. Nearly sure heart same kid.",
+        "fecha_ultima_reposicion": "1975-12-06",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 7,
+    "fields": {
+        "centro": 4,
+        "producto": 3,
+        "cantidad_actual": 9767,
+        "ubicacion": "Kid bill born yourself two drug machine. City least such.",
+        "fecha_ultima_reposicion": "1999-12-19",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 8,
+    "fields": {
+        "centro": 4,
+        "producto": 8,
+        "cantidad_actual": 21746,
+        "ubicacion": "Response use suddenly significant.",
+        "fecha_ultima_reposicion": "1996-06-28",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 9,
+    "fields": {
+        "centro": 15,
+        "producto": 3,
+        "cantidad_actual": 26496,
+        "ubicacion": "Customer generation scene white show student.",
+        "fecha_ultima_reposicion": "1992-03-21",
+        "necesita_reposicion": true
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 10,
+    "fields": {
+        "centro": 5,
+        "producto": 1,
+        "cantidad_actual": 30514,
+        "ubicacion": "Wish economic whose value push again.",
+        "fecha_ultima_reposicion": "2003-10-28",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 11,
+    "fields": {
+        "centro": 6,
+        "producto": 11,
+        "cantidad_actual": 22948,
+        "ubicacion": "Hotel student cost class.",
+        "fecha_ultima_reposicion": "1999-05-01",
+        "necesita_reposicion": true
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 12,
+    "fields": {
+        "centro": 5,
+        "producto": 1,
+        "cantidad_actual": 10687,
+        "ubicacion": "Face world career environment become example.",
+        "fecha_ultima_reposicion": "1977-05-03",
+        "necesita_reposicion": true
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 13,
+    "fields": {
+        "centro": 7,
+        "producto": 5,
+        "cantidad_actual": 4189,
+        "ubicacion": "Save bank soon employee tell.",
+        "fecha_ultima_reposicion": "1979-10-30",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 14,
+    "fields": {
+        "centro": 3,
+        "producto": 5,
+        "cantidad_actual": 29276,
+        "ubicacion": "Truth win leader indicate no student moment.",
+        "fecha_ultima_reposicion": "1989-09-14",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 15,
+    "fields": {
+        "centro": 12,
+        "producto": 10,
+        "cantidad_actual": 11310,
+        "ubicacion": "Life might money two never despite candidate determine.",
+        "fecha_ultima_reposicion": "2012-10-23",
+        "necesita_reposicion": true
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 16,
+    "fields": {
+        "centro": 16,
+        "producto": 16,
+        "cantidad_actual": 0,
+        "ubicacion": "Cuarto de limpieza",
+        "fecha_ultima_reposicion": "2026-11-14",
+        "necesita_reposicion": true
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 17,
+    "fields": {
+        "centro": 16,
+        "producto": 17,
+        "cantidad_actual": 30,
+        "ubicacion": "Almacén -1",
+        "fecha_ultima_reposicion": "2026-11-14",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 18,
+    "fields": {
+        "centro": 16,
+        "producto": 18,
+        "cantidad_actual": 5,
+        "ubicacion": "Almacén general",
+        "fecha_ultima_reposicion": "2026-11-14",
+        "necesita_reposicion": true
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 19,
+    "fields": {
+        "centro": 16,
+        "producto": 19,
+        "cantidad_actual": 15,
+        "ubicacion": "Almacén general",
+        "fecha_ultima_reposicion": "2026-11-14",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 20,
+    "fields": {
+        "centro": 16,
+        "producto": 20,
+        "cantidad_actual": 2,
+        "ubicacion": "Cuarto de limpieza",
+        "fecha_ultima_reposicion": "2026-11-14",
+        "necesita_reposicion": true
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 21,
+    "fields": {
+        "centro": 16,
+        "producto": 21,
+        "cantidad_actual": 53,
+        "ubicacion": "Almacén general",
+        "fecha_ultima_reposicion": "2026-11-14",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 22,
+    "fields": {
+        "centro": 17,
+        "producto": 22,
+        "cantidad_actual": 2,
+        "ubicacion": "Almacén general",
+        "fecha_ultima_reposicion": "2026-11-14",
+        "necesita_reposicion": true
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 23,
+    "fields": {
+        "centro": 17,
+        "producto": 23,
+        "cantidad_actual": 50,
+        "ubicacion": "Almacén planta 0",
+        "fecha_ultima_reposicion": "2026-11-14",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 24,
+    "fields": {
+        "centro": 17,
+        "producto": 24,
+        "cantidad_actual": 9,
+        "ubicacion": "Almacén general",
+        "fecha_ultima_reposicion": "2026-11-14",
+        "necesita_reposicion": true
+    }
+},
+{
+    "model": "limpieza.inventario",
+    "pk": 25,
+    "fields": {
+        "centro": 17,
+        "producto": 25,
+        "cantidad_actual": 24,
+        "ubicacion": "Almacén -1",
+        "fecha_ultima_reposicion": "2026-11-14",
+        "necesita_reposicion": false
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 1,
+    "fields": {
+        "cuadrante": 15,
+        "aseo": 13,
+        "hora_inicio": "1974-09-03T14:06:12",
+        "hora_fin": "1995-08-05T22:45:07",
+        "estado": "INCIDENCIA",
+        "observaciones": "Product wear back. Seat style force upon. President travel someone vote. Your prevent position part different answer.\nFree name increase save. Wall fire staff important.",
+        "productos_usados": [
+            4,
+            15
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 2,
+    "fields": {
+        "cuadrante": 3,
+        "aseo": 13,
+        "hora_inicio": "2007-09-12T10:58:23",
+        "hora_fin": "1989-04-19T08:37:36",
+        "estado": "INCIDENCIA",
+        "observaciones": "Charge research law film head down. All card commercial each majority whole. Keep step card white executive thus. President during line team popular it whose whether.",
+        "productos_usados": [
+            1,
+            6,
+            12,
+            14
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 3,
+    "fields": {
+        "cuadrante": 12,
+        "aseo": 8,
+        "hora_inicio": "1998-09-17T23:13:05",
+        "hora_fin": "1979-06-28T04:27:56",
+        "estado": "PENDIENTE",
+        "observaciones": "Must result however well. At sea new increase democratic hear. Husband mouth deep peace expert more.",
+        "productos_usados": [
+            9
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 4,
+    "fields": {
+        "cuadrante": 1,
+        "aseo": 8,
+        "hora_inicio": "1983-12-20T03:52:25",
+        "hora_fin": "1981-09-03T23:23:19",
+        "estado": "HECHA",
+        "observaciones": "Have difficult factor result. Society all fund life actually.\nFar painting from popular. Probably home improve recognize save lot. Land among worry ten role.",
+        "productos_usados": [
+            9,
+            13,
+            15
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 5,
+    "fields": {
+        "cuadrante": 4,
+        "aseo": 5,
+        "hora_inicio": "1973-04-05T05:19:45",
+        "hora_fin": "2013-03-27T23:52:06",
+        "estado": "INCIDENCIA",
+        "observaciones": "Live magazine daughter interview population. Fear song south feel. Wrong return yet ten tree debate number bank.",
+        "productos_usados": [
+            15
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 6,
+    "fields": {
+        "cuadrante": 2,
+        "aseo": 14,
+        "hora_inicio": "2007-09-24T01:25:28",
+        "hora_fin": "1995-05-29T17:04:59",
+        "estado": "PENDIENTE",
+        "observaciones": "Building life different any us be agree. Industry college person movement particularly red term. Whether claim war respond their painting father.",
+        "productos_usados": [
+            4,
+            14
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 7,
+    "fields": {
+        "cuadrante": 8,
+        "aseo": 11,
+        "hora_inicio": "1996-08-24T15:52:21",
+        "hora_fin": "2025-03-26T17:41:40",
+        "estado": "HECHA",
+        "observaciones": "Idea she game significant some trouble. Seat later wrong try water.\nParticular bar three run stock thousand. View answer term.",
+        "productos_usados": [
+            6,
+            9,
+            10,
+            11
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 8,
+    "fields": {
+        "cuadrante": 14,
+        "aseo": 10,
+        "hora_inicio": "1987-09-10T08:39:48",
+        "hora_fin": "1979-01-13T05:22:46",
+        "estado": "EN_CURSO",
+        "observaciones": "Benefit but create fly develop something natural. Heavy wonder place yard court pay.",
+        "productos_usados": [
+            3,
+            12
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 9,
+    "fields": {
+        "cuadrante": 1,
+        "aseo": 1,
+        "hora_inicio": "1978-08-24T23:41:40",
+        "hora_fin": "2020-11-12T15:15:59",
+        "estado": "PENDIENTE",
+        "observaciones": "Democrat computer very evening individual campaign rock. Skin sort chance create senior news usually. Contain out may.\nPersonal song to control strategy could. Turn energy stay month though.",
+        "productos_usados": [
+            15
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 10,
+    "fields": {
+        "cuadrante": 6,
+        "aseo": 11,
+        "hora_inicio": "1995-11-14T20:03:36",
+        "hora_fin": "2003-12-03T15:47:27",
+        "estado": "PENDIENTE",
+        "observaciones": "Notice time cup ever. Fear yard manager forward what toward.\nExecutive result Mr argue there although. Article various arrive own. Blue their view real half.",
+        "productos_usados": [
+            3,
+            7,
+            10
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 11,
+    "fields": {
+        "cuadrante": 11,
+        "aseo": 8,
+        "hora_inicio": "1988-06-15T21:27:45",
+        "hora_fin": "1995-04-26T09:15:40",
+        "estado": "HECHA",
+        "observaciones": "Arrive today this total continue quickly. System nothing condition pressure fine job hotel. Experience the draw decide protect spring.",
+        "productos_usados": [
+            1,
+            11,
+            15
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 12,
+    "fields": {
+        "cuadrante": 8,
+        "aseo": 7,
+        "hora_inicio": "2022-12-08T07:04:53",
+        "hora_fin": "2022-01-03T20:05:07",
+        "estado": "INCIDENCIA",
+        "observaciones": "Process tell clear nearly author executive read. Note Mr former likely offer large throw.",
+        "productos_usados": [
+            2,
+            12,
+            14
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 13,
+    "fields": {
+        "cuadrante": 10,
+        "aseo": 15,
+        "hora_inicio": "2026-06-23T01:11:37",
+        "hora_fin": "2006-05-27T20:56:40",
+        "estado": "EN_CURSO",
+        "observaciones": "Property teach paper across alone. Without no another be there former eye budget. Research main response drop card avoid weight.\nHit investment baby weight continue bad west benefit.",
+        "productos_usados": [
+            10
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 14,
+    "fields": {
+        "cuadrante": 10,
+        "aseo": 4,
+        "hora_inicio": "1975-12-06T06:38:36",
+        "hora_fin": "1991-07-29T10:47:26",
+        "estado": "PENDIENTE",
+        "observaciones": "Good town with threat risk leg. Skill third factor. Next manager after fine seek. About soldier answer face city among consumer.",
+        "productos_usados": [
+            4,
+            5,
+            13
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 15,
+    "fields": {
+        "cuadrante": 3,
+        "aseo": 15,
+        "hora_inicio": "1991-11-20T15:12:42",
+        "hora_fin": "1995-07-28T23:15:23",
+        "estado": "PENDIENTE",
+        "observaciones": "Affect direction particular name have. Card various trade source. Field easy usually most fall.\nNews bill management grow. Step short fly today can.",
+        "productos_usados": [
+            4,
+            5,
+            9,
+            12
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 16,
+    "fields": {
+        "cuadrante": 16,
+        "aseo": 16,
+        "hora_inicio": "2026-11-14T19:37:00",
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "Estado u peso papel varios.",
+        "productos_usados": [
+            19,
+            24,
+            25
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 17,
+    "fields": {
+        "cuadrante": 17,
+        "aseo": 17,
+        "hora_inicio": "2026-11-14T18:14:00",
+        "hora_fin": null,
+        "estado": "EN_CURSO",
+        "observaciones": "Ante nuevos línea realizar madrid rosa rafael.",
+        "productos_usados": [
+            19,
+            20,
+            22
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 18,
+    "fields": {
+        "cuadrante": 18,
+        "aseo": 18,
+        "hora_inicio": "2026-11-02T01:29:00",
+        "hora_fin": "2026-11-02T01:41:00",
+        "estado": "HECHA",
+        "observaciones": "Diferentes pasado tenía fuera allá últimos encuentra.",
+        "productos_usados": [
+            16,
+            20,
+            23
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 19,
+    "fields": {
+        "cuadrante": 19,
+        "aseo": 19,
+        "hora_inicio": "2026-11-02T01:25:00",
+        "hora_fin": "2026-11-02T01:46:00",
+        "estado": "INCIDENCIA",
+        "observaciones": "Fue sobre luego aun civil música.",
+        "productos_usados": [
+            18,
+            20,
+            25
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 20,
+    "fields": {
+        "cuadrante": 20,
+        "aseo": 20,
+        "hora_inicio": "2026-11-16T09:55:00",
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "Volvió derecha política además solo.",
+        "productos_usados": [
+            17,
+            18,
+            23
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 21,
+    "fields": {
+        "cuadrante": 21,
+        "aseo": 21,
+        "hora_inicio": "2026-11-16T09:03:00",
+        "hora_fin": null,
+        "estado": "EN_CURSO",
+        "observaciones": "Medio carlos cuba cámara asimismo josé.",
+        "productos_usados": [
+            18,
+            21,
+            22
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 22,
+    "fields": {
+        "cuadrante": 22,
+        "aseo": 16,
+        "hora_inicio": "2026-11-09T15:49:00",
+        "hora_fin": "2026-11-09T16:06:00",
+        "estado": "HECHA",
+        "observaciones": "Pocos encuentro francia.",
+        "productos_usados": [
+            17,
+            20,
+            23
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 23,
+    "fields": {
+        "cuadrante": 23,
+        "aseo": 17,
+        "hora_inicio": "2026-11-09T18:34:00",
+        "hora_fin": "2026-11-09T19:01:00",
+        "estado": "INCIDENCIA",
+        "observaciones": "Comunicación perdido volver mientras acto menor gente.",
+        "productos_usados": [
+            16,
+            18,
+            25
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 24,
+    "fields": {
+        "cuadrante": 24,
+        "aseo": 18,
+        "hora_inicio": "2026-11-04T02:21:00",
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "Muchas internacional actividades había único pueden claro.",
+        "productos_usados": [
+            20,
+            23,
+            25
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 25,
+    "fields": {
+        "cuadrante": 25,
+        "aseo": 19,
+        "hora_inicio": "2026-11-04T02:33:00",
+        "hora_fin": null,
+        "estado": "EN_CURSO",
+        "observaciones": "Pone producción rosa verdad han unos palabras.",
+        "productos_usados": [
+            16,
+            20,
+            22
+        ]
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 26,
+    "fields": {
+        "cuadrante": 4,
+        "aseo": 12,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 27,
+    "fields": {
+        "cuadrante": 2,
+        "aseo": 8,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 28,
+    "fields": {
+        "cuadrante": 13,
+        "aseo": 13,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 29,
+    "fields": {
+        "cuadrante": 7,
+        "aseo": 6,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 30,
+    "fields": {
+        "cuadrante": 7,
+        "aseo": 11,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 31,
+    "fields": {
+        "cuadrante": 5,
+        "aseo": 6,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 32,
+    "fields": {
+        "cuadrante": 6,
+        "aseo": 10,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 33,
+    "fields": {
+        "cuadrante": 3,
+        "aseo": 12,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 34,
+    "fields": {
+        "cuadrante": 16,
+        "aseo": 18,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 35,
+    "fields": {
+        "cuadrante": 17,
+        "aseo": 19,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 36,
+    "fields": {
+        "cuadrante": 16,
+        "aseo": 20,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 37,
+    "fields": {
+        "cuadrante": 17,
+        "aseo": 21,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 38,
+    "fields": {
+        "cuadrante": 18,
+        "aseo": 16,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 39,
+    "fields": {
+        "cuadrante": 19,
+        "aseo": 17,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 40,
+    "fields": {
+        "cuadrante": 18,
+        "aseo": 20,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 41,
+    "fields": {
+        "cuadrante": 19,
+        "aseo": 21,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 42,
+    "fields": {
+        "cuadrante": 20,
+        "aseo": 16,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 43,
+    "fields": {
+        "cuadrante": 21,
+        "aseo": 17,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 44,
+    "fields": {
+        "cuadrante": 20,
+        "aseo": 18,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 45,
+    "fields": {
+        "cuadrante": 21,
+        "aseo": 19,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 46,
+    "fields": {
+        "cuadrante": 22,
+        "aseo": 18,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 47,
+    "fields": {
+        "cuadrante": 23,
+        "aseo": 19,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 48,
+    "fields": {
+        "cuadrante": 22,
+        "aseo": 20,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 49,
+    "fields": {
+        "cuadrante": 23,
+        "aseo": 21,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 50,
+    "fields": {
+        "cuadrante": 24,
+        "aseo": 16,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 51,
+    "fields": {
+        "cuadrante": 25,
+        "aseo": 17,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 52,
+    "fields": {
+        "cuadrante": 24,
+        "aseo": 20,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+},
+{
+    "model": "limpieza.limpieza",
+    "pk": 53,
+    "fields": {
+        "cuadrante": 25,
+        "aseo": 21,
+        "hora_inicio": null,
+        "hora_fin": null,
+        "estado": "PENDIENTE",
+        "observaciones": "",
+        "productos_usados": []
+    }
+}
+]
